@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke" verbose="1">
+    <test name="Find initial btn test">
+        <classes>
+            <class name="test.FindInitialBtnTest"/>
+        </classes>
+    </test>
+</suite>
